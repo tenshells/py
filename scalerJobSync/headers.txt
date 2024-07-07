@@ -1,0 +1,92 @@
+Cache-Control:
+no-cache
+Content-Encoding:
+gzip
+Content-Type:
+text/html; charset=utf-8
+Date:
+Wed, 27 Dec 2023 12:03:34 GMT
+Location:
+https://www.scaler.com/academy/mentee-dashboard/core-curriculum/
+Server:
+nginx
+Set-Cookie:
+ahoy_visit=6e3a67f4-2fb0-4f3c-8bf8-ba7d293d4659; path=/; expires=Wed, 27 Dec 2023 16:03:34 GMT
+Set-Cookie:
+auth_session_id=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3VzLmFjY291bnRzLnNjYWxlci5jb20iLCJhdWQiOiJzY2FsZXIiLCJzdWIiOiJzY2FsZXIjdXNlciMyOTEyMDM5Iiwic2Vzc2lvbl9pZCI6InNlc3Npb24jYWN0aXZlIzJhN25pcmp2ZnpkNVRGWGcxQ2pnZGE4MFNJZyIsImlhdCI6MTcwMzY3ODYxNCwic2Vzc2lvbl9zb3VyY2UiOiJzZWNvbmRhcnkiLCJleHAiOjE3MDYyNzA2MTR9.BWvbw_2UO1npIBiQaWReSHQW-TnAKiYmMnmR7g8jloo; path=/; expires=Fri, 26 Jan 2024 12:03:34 GMT
+Set-Cookie:
+auth_session_role=paid_mentee; path=/
+Set-Cookie:
+remember_user_token=W1syOTEyMDM5XSwiNlRheEhHbXk0bmFqM0pQWUNpNFYiLCIxNzAzNjc4NjE0LjM4MDY4ODQiXQ%3D%3D--d302bff485029b0e020d188171e09eb243b53d7b; path=/; expires=Wed, 24 Jan 2024 12:03:34 GMT; secure; HttpOnly
+Set-Cookie:
+gtm_data=%5B%22%7B%5C%22event%5C%22%3A%5C%22form_submit_status%5C%22%2C%5C%22action%5C%22%3A%5C%22success%5C%22%2C%5C%22label%5C%22%3A%5C%22login-email-form%5C%22%2C%5C%22data%5C%22%3A%7B%5C%22sub_product%5C%22%3A%5C%22IB+Sign+In%5C%22%2C%5C%22form_id%5C%22%3A%5C%22login-email-form%5C%22%2C%5C%22message%5C%22%3A%5C%22success%5C%22%2C%5C%22status%5C%22%3Atrue%7D%7D%22%2C%22%7B%5C%22event%5C%22%3A%5C%22track_user%5C%22%2C%5C%22action%5C%22%3A%5C%22shelton.dany%40gmail.com%5C%22%2C%5C%22data%5C%22%3A%7B%7D%7D%22%2C%22%7B%5C%22event%5C%22%3A%5C%22register_user%5C%22%2C%5C%22action%5C%22%3A%5C%22shelton.dany%40gmail.com%5C%22%2C%5C%22data%5C%22%3A%7B%5C%22authentication_mode%5C%22%3A%5C%22email_password%5C%22%2C%5C%22new_user%5C%22%3Afalse%7D%7D%22%2C%22%7B%5C%22event%5C%22%3A%5C%22set_user_attribute%5C%22%2C%5C%22action%5C%22%3A%5C%22shelton.dany%40gmail.com%5C%22%2C%5C%22data%5C%22%3A%7B%5C%22course_enrolled%5C%22%3A%5C%22software_engineering_academy%5C%22%2C%5C%22courses_interested%5C%22%3A%5C%22software_engineering_academy%2Csoftware_engineering_academy%2Csoftware_engineering_academy%5C%22%2C%5C%22cu_user_type%5C%22%3A%5C%22mentee%5C%22%2C%5C%22cu_is_scaler_user%5C%22%3Atrue%2C%5C%22attribute_mapper%5C%22%3Atrue%2C%5C%22batch_name%5C%22%3A%5C%22Academy+Nov22+Intermediate+Morning+2%5C%22%2C%5C%22mentor_name%5C%22%3Anull%7D%7D%22%5D; path=/
+Set-Cookie:
+rubyenv_ts=2.5.9_2023-12-27T12%3A03%3A34%2B00%3A00; path=/
+Set-Cookie:
+XSRF-TOKEN=7CkBDGYomXZWwNDi43dk9s7XgdVhmJmeros9rgPmgB7spA0tFFFDBfr5nLFE0zjQjPUHtJ09WLEmt1JYc59Npw%3D%3D; path=/
+Set-Cookie:
+_scaler_session=dC9JTG85bjFLOUs3UUJvd2lTSS9NSjBrNEFzWEtnb0xGOFB0VXZpTHRsT0lBcGd3WDgrMnRlTkF6aWFQOEx2WXlCeitUbW9UODFXSVVTQzAzMnNjdVlYdlFUVmFaWTNWZGRRZ3BMRWxyWEZNQ2w4VDNlWkZKZC93WnZsNVZCM2tZa2xuYXErdzZ4eTBGSXZYV1RDVkd4YWRIMUdEME1mOE0reWsyMVFGZVM5L1U2bER2N05MQVlRZGJSSDVTRURzaE5VcEUyLzVRaEVXVEkvaHBXWWxzMzVBRlk3SHhSb3BXZEY1QXNsVHlwT01rUUtacExZNUxwdEY3MkRFV004cEcvWDhMWVlzTlp2NTg0QXA3TXN2bGpVZmJrdjBxazhZZXlCVkFmS1dzUkdYTll5L1VyWjRsVmdOcW85eENkd1p1NmYzMVBaRWlCV29La2lIamFjZTZHQ2hiTDZQN2lBeXY3T2dmTU9ZZEIyZzlCaVZHZkJGZnNEdHczVmZ4b0kwQkZxcnUwNjFCZmtBa2JqWlVMZkZzY2hzS29XZU5jQ3RjelkxSTZNSmJHRElBZWplNU9hMnZ4ZHh3K3dqS2NzSmxQNUF1TGRuWUdpckQrQ25NWWRHekgzMEFwVVdKWWI5YjB1VmtXNWtHU0hxeHFENDNlRktJWGdaa0o2VmI0UEFZRERKRW1hZVF0SEpJdFFoRkw5VTl2RDljSytIL3ZPb29LUXBZS0xpWWkwPS0tUnFwTnd0VjJyY0NXSjZjTFpMRHlqUT09--c812a954f2f6956a583787fa9dc5c4efb7b9b56c; path=/; expires=Thu, 11 Jan 2024 12:03:34 GMT; secure; HttpOnly; SameSite=None
+Vary:
+Accept-Encoding
+Via:
+1.1 817efdc6b450f8ea2c3cfecf176cd352.cloudfront.net (CloudFront)
+X-Amz-Cf-Id:
+CmehImVHdO_HGUGMsZwmZQ0mkxTWhiT6w-0DBZgbHUj9suVyFuBPqw==
+X-Amz-Cf-Pop:
+MAA50-P2
+X-Cache:
+Miss from cloudfront
+X-Content-Type-Options:
+nosniff
+X-Frame-Options:
+SAMEORIGIN
+X-Request-Id:
+1bfb0168-cc2a-4566-9e77-a058dbf249b8
+X-Runtime:
+0.267438
+X-Xss-Protection:
+1; mode=block
+:authority:
+www.scaler.com
+:method:
+POST
+:path:
+/users/sign_in/
+:scheme:
+https
+Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+en-GB,en;q=0.9
+Cache-Control:
+max-age=0
+Content-Length:
+878
+Content-Type:
+application/x-www-form-urlencoded
+Cookie:
+ahoy_visitor=eac840dd-992c-44a6-9672-477bfcbc31bf; ahoy_visit=6e3a67f4-2fb0-4f3c-8bf8-ba7d293d4659; bypass_utm=utm_medium%3Ddirect%26utm_source%3Dnone%26utm_content%3D%2Fusers%2Fsign_in%2F; _clck=1x2bvgu%7C2%7Cfhw%7C0%7C1456; _gcl_au=1.1.517184704.1703678498; __rtbh.lid=%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%225DtWkn30LbT1qnd4vYxR%22%7D; _ga=GA1.1.164995140.1703678500; _rdt_uuid=1703678500475.a3dfdf90-3312-4deb-bbd6-20e7cde0cc66; FPAU=1.1.517184704.1703678498; delaconsessid=777d144e5f624e83b5ec24cc3e34a6b0; _fbp=fb.1.1703678501464.730851747; dicbo_id=%7B%22dicbo_fetch%22%3A1703678501988%7D; rubyenv_ts=2.5.9_2023-12-27T12%3A01%3A56%2B00%3A00; XSRF-TOKEN=soaI9%2Bdx7Xrt%2FPTxr22L762yvjoalwkfwDcUuGCx%2BQdpvQRLrqqzM4aiQdOKNR9JiO5yF2M9qf57tYfylv3Ymg%3D%3D; _scaler_session=RzdVbjJJOUZCQXdRZGNNNDgycEE2Z1d2OVpBMEpaSjU3UzdTS3N2ZE05Q0YvZzRwZVJqSDQ1aDc2Z2Z1OG1iU3doZGxWNGNJaDE5MFdJOGRlbjh2VUxzNFpqaVFWdTJuL2F6WHhHamZLTHpVU1VBdWZaUkxxRVh4NnFTWTZYa1lUREl1dW9aWGpvQkJyY2lsdGRCYnQxZDJsRXdpajVydnI2bWxiUy9mL01udUFTY0NZRDNtWjNzR2QycDBRUkduOEsvOG9KcjNIUzBpQ2RoTWQ1T0oyL09rWStieHhBYTJQdWIzNlRsZlhoM1B5QWtCbGZxeWZTTXBEaVRWdGRtQ0FaVnZTSHo3SFpkM0lSWU9IY1ZaWm5VUUVTRWE5YjFTWkEvZlBaQ2UyU04yU2ZhbmpPS084dGlZdUZ1Vzg2L1cyQmFDd1cyTDM2QjBXQWlEQWRGaFVrc1ZtZTZQKzRWbjFDanJGTk5hUlh2Z1pRYVJLUUROUnJkSEl0My9RSlhMS1d4aTRqeXhJY0hlbXZWUHlpMjlUVmJEbndHN2dVS3hmREthc3BTYUVKYjNMRExNSEhRTVQwMVVqOVhWUTV0NTZyMkUvZGtheTRTancyTk0xLzJzUi9WdmlRMHMwcWpqdzhNd3N5TElyamc9LS1UWUN4ZkJxbDdLcnM1QlFPYTR0dWNBPT0%3D--95ca83157148d3354069b4ca1c15fd0cd887e73c; __rtbh.aid=%7B%22eventType%22%3A%22aid%22%2C%22id%22%3A%22164995140.1703678500%22%7D; _uetsid=b15a36c0a4af11eebabe5df7a4737a87; _uetvid=b15a6610a4af11ee98e229d5659ba8d7; mp_d03190ebd99fb449512f78cabf9a14f5_mixpanel=%7B%22distinct_id%22%3A%20%22%24device%3A18cab26dedad35a-0fcc5088981e48-26001951-172698-18cab26dedad35a%22%2C%22%24device_id%22%3A%20%2218cab26dedad35a-0fcc5088981e48-26001951-172698-18cab26dedad35a%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; delaconphonenums=111783,01205096016,true,01205097202,in,|111785,01205096037,true,01205097203,in,|114046,01205097206,true,1234567890,in,|111794,01205097204,true,9930562669,in,|; _clsk=6k50gg%7C1703678556713%7C2%7C1%7Cp.clarity.ms%2Fcollect; FPGSID=1.1703678500.1703678609.G-53S71ZZG1X.SIBWzG4W3ayw-mV17z48Vg; _ga_53S71ZZG1X=GS1.1.1703678500.1.1.1703678614.0.0.0; _ga_BD7F6ECS9Z=GS1.1.1703678500.1.1.1703678614.60.0.367519998
+Origin:
+https://www.scaler.com
+Referer:
+https://www.scaler.com/users/sign_in/
+Sec-Ch-Ua:
+"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"Windows"
+Sec-Fetch-Dest:
+document
+Sec-Fetch-Mode:
+navigate
+Sec-Fetch-Site:
+same-origin
+Sec-Fetch-User:
+?1
+Upgrade-Insecure-Requests:
+1
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
